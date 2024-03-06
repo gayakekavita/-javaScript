@@ -1,0 +1,17 @@
+/*
+  while loop
+  Synatx:
+   initialization;
+   while(condition)
+   {
+      //body of loop
+      updation;
+   }
+*/
+
+var i=0;
+while(i<5)
+  {
+    console.log(i);
+    i++;
+  }
