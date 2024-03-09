@@ -1,0 +1,4 @@
+let ullist=document.getElementsByClassName("ullist");
+document.getElementById("list1").style.color="red";
+document.getElementById("list2").style.color="green";
+ullist[0].lastElementChild.style.color="yellow";
